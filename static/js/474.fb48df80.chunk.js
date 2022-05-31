@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhomepage=self.webpackChunkhomepage||[]).push([[474],{474:function(e,a,s){e.exports=s.p+"static/media/kanbandesks.57022288c44c3a9fab52.png"}}]);

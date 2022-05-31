@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhomepage=self.webpackChunkhomepage||[]).push([[127],{127:function(e,a,p){e.exports=p.p+"static/media/chat.24ea7f6b969d9ec2dba5.png"}}]);
