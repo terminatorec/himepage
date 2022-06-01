@@ -1,9 +1,10 @@
 {
   "files": {
-    "main.css": "/homepage/static/css/main.b5d3d5e9.css",
-    "main.js": "/homepage/static/js/main.d27e8e21.js",
+    "main.css": "/homepage/static/css/main.dba480ad.css",
+    "main.js": "/homepage/static/js/main.b0eaefe2.js",
     "static/js/127.4f0eeb58.chunk.js": "/homepage/static/js/127.4f0eeb58.chunk.js",
     "static/js/474.fb48df80.chunk.js": "/homepage/static/js/474.fb48df80.chunk.js",
+    "static/js/333.c0bcd6f1.chunk.js": "/homepage/static/js/333.c0bcd6f1.chunk.js",
     "static/js/234.1995757e.chunk.js": "/homepage/static/js/234.1995757e.chunk.js",
     "static/js/312.446095a1.chunk.js": "/homepage/static/js/312.446095a1.chunk.js",
     "static/js/366.1211e47a.chunk.js": "/homepage/static/js/366.1211e47a.chunk.js",
@@ -14,13 +15,14 @@
     "static/media/kanbandesks.png": "/homepage/static/media/kanbandesks.57022288c44c3a9fab52.png",
     "static/media/todo.png": "/homepage/static/media/todo.3c334a94e8f037ac2585.png",
     "static/media/logo.svg": "/homepage/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/link.svg": "/homepage/static/media/link.6210d1824858f8ad3fd9b2584cbbc87c.svg",
     "index.html": "/homepage/index.html",
-    "main.b5d3d5e9.css.map": "/homepage/static/css/main.b5d3d5e9.css.map",
-    "main.d27e8e21.js.map": "/homepage/static/js/main.d27e8e21.js.map",
+    "main.dba480ad.css.map": "/homepage/static/css/main.dba480ad.css.map",
+    "main.b0eaefe2.js.map": "/homepage/static/js/main.b0eaefe2.js.map",
     "787.5c39024c.chunk.js.map": "/homepage/static/js/787.5c39024c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b5d3d5e9.css",
-    "static/js/main.d27e8e21.js"
+    "static/css/main.dba480ad.css",
+    "static/js/main.b0eaefe2.js"
   ]
 }
