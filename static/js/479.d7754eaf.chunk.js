@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhomepage=self.webpackChunkhomepage||[]).push([[479],{479:function(e,a,c){e.exports=c.p+"static/media/calculator.9ed2238a75ea538dc246.png"}}]);
