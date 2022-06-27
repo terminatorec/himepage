@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhomepage=self.webpackChunkhomepage||[]).push([[915],{915:function(e,s,p){e.exports=p.p+"static/media/chess.533b86f0819b6d6ddc06.png"}}]);
