@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhomepage=self.webpackChunkhomepage||[]).push([[55],{55:function(e,p,s){e.exports=s.p+"static/media/simple-mern.3b87740dab4d0e6fb12d.png"}}]);
