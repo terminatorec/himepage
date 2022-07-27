@@ -1,10 +1,11 @@
 {
   "files": {
-    "main.css": "/homepage/static/css/main.674a1206.css",
-    "main.js": "/homepage/static/js/main.5bdc3459.js",
+    "main.css": "/homepage/static/css/main.4861784e.css",
+    "main.js": "/homepage/static/js/main.3a10ae1d.js",
     "static/js/479.d7754eaf.chunk.js": "/homepage/static/js/479.d7754eaf.chunk.js",
     "static/js/127.4f0eeb58.chunk.js": "/homepage/static/js/127.4f0eeb58.chunk.js",
     "static/js/915.e0202b3f.chunk.js": "/homepage/static/js/915.e0202b3f.chunk.js",
+    "static/js/484.fbe26349.chunk.js": "/homepage/static/js/484.fbe26349.chunk.js",
     "static/js/676.0229fca1.chunk.js": "/homepage/static/js/676.0229fca1.chunk.js",
     "static/js/401.695a09e0.chunk.js": "/homepage/static/js/401.695a09e0.chunk.js",
     "static/js/474.fb48df80.chunk.js": "/homepage/static/js/474.fb48df80.chunk.js",
@@ -25,6 +26,7 @@
     "static/media/chat.png": "/homepage/static/media/chat.24ea7f6b969d9ec2dba5.png",
     "static/media/posts.png": "/homepage/static/media/posts.7ea32768a3f92068d76f.png",
     "static/media/calculator.png": "/homepage/static/media/calculator.9ed2238a75ea538dc246.png",
+    "static/media/color-palettes.png": "/homepage/static/media/color-palettes.6002e00c39feb402e262.png",
     "static/media/quiz.png": "/homepage/static/media/quiz.dc121940e94b441ae7ea.png",
     "static/media/find-matches.png": "/homepage/static/media/find-matches.9e19979f79d5f91ae4e7.png",
     "static/media/simple-mern.png": "/homepage/static/media/simple-mern.3b87740dab4d0e6fb12d.png",
@@ -35,12 +37,12 @@
     "static/media/logo.svg": "/homepage/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "static/media/link.svg": "/homepage/static/media/link.6210d1824858f8ad3fd9b2584cbbc87c.svg",
     "index.html": "/homepage/index.html",
-    "main.674a1206.css.map": "/homepage/static/css/main.674a1206.css.map",
-    "main.5bdc3459.js.map": "/homepage/static/js/main.5bdc3459.js.map",
+    "main.4861784e.css.map": "/homepage/static/css/main.4861784e.css.map",
+    "main.3a10ae1d.js.map": "/homepage/static/js/main.3a10ae1d.js.map",
     "787.5c39024c.chunk.js.map": "/homepage/static/js/787.5c39024c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.674a1206.css",
-    "static/js/main.5bdc3459.js"
+    "static/css/main.4861784e.css",
+    "static/js/main.3a10ae1d.js"
   ]
 }

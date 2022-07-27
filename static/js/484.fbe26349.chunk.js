@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhomepage=self.webpackChunkhomepage||[]).push([[484],{484:function(e,p,s){e.exports=s.p+"static/media/color-palettes.6002e00c39feb402e262.png"}}]);
